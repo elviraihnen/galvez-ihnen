@@ -6,7 +6,7 @@
 body{
 	background:rgba(255,255,255,1);
 	color:rgba(25,25,25,1);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-weight:300;
 }
 
@@ -94,7 +94,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(241,230,210,1);
+	background-color:rgba(122, 209, 170);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -111,7 +111,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(231,240,239,1);
+	background-color:rgba(122,209,170);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
@@ -134,7 +134,7 @@ video{
 #portafolio{
 	width:100%;
 	padding-bottom:1%;
-	background:linear-gradient(to bottom right, #F2E6D4, #E7F0EF);
+	background:linear-gradient(to bottom right, #7AD1AF, #9DE9CB);
 }
 
 .item {
@@ -167,7 +167,7 @@ video{
 }
 
 .item h4{
-	font-size:1em;
+	font-size:2em;
 	letter-spacing:0.025em;
 	margin:5% 5% 3% 5%;
 }
